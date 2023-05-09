@@ -1,0 +1,71 @@
+{
+  "register": [
+    {
+      "id": 1,
+      "name": "123@qwe.com",
+      "pwd": "qwe123"
+    },
+    {
+      "name": "qwe@qwe.com",
+      "pwd": "qwe123",
+      "id": 2
+    },
+    {
+      "name": "123@qq.com",
+      "pwd": "qwer@2222",
+      "id": 3
+    },
+    {
+      "name": "qwe@as.com",
+      "pwd": "asd123",
+      "id": 4
+    },
+    {
+      "name": "123@qq.com",
+      "pwd": "qwe123",
+      "id": 5
+    },
+    {
+      "name": "asd@qwe.com",
+      "pwd": "qwe123",
+      "id": 6
+    },
+    {
+      "name": "123@123.com",
+      "pwd": "553e83ca69693b33ef73958c04b7a315",
+      "id": 7
+    },
+    {
+      "name": "zr@qq.com",
+      "pwd": "553e83ca69693b33ef73958c04b7a315",
+      "id": 8
+    }
+  ],
+  "userlist": [
+    {"id": 1, "title": "碧桂园", "type": "住宅", "num": "1-1-1", "hometype": "三室一厅", "name": "赵云"},
+    {"id": 2, "title": "碧桂园", "type": "住宅", "num": "1-1-2", "hometype": "三室二厅", "name": "刘备"},
+    {"id": 3, "title": "碧桂园", "type": "住宅", "num": "1-1-3", "hometype": "三室一厅", "name": "赵云"},
+    {"id": 4, "title": "碧桂园", "type": "住宅", "num": "1-1-4", "hometype": "二室一厅", "name": "赵云"},
+    {"id": 5, "title": "碧桂园", "type": "住宅", "num": "1-1-5", "hometype": "一室一厅", "name": "马超"},
+    {"id": 6, "title": "碧桂园", "type": "住宅", "num": "1-1-6", "hometype": "三室一厅", "name": "赵云"},
+    {"id": 7, "title": "碧桂园", "type": "住宅", "num": "1-1-7", "hometype": "三室一厅", "name": "张飞"},
+    {"id": 8, "title": "碧桂园", "type": "住宅", "num": "1-1-8", "hometype": "四室一厅", "name": "赵云"},
+    {"id": 9, "title": "碧桂园", "type": "住宅", "num": "1-1-9", "hometype": "三室一厅", "name": "赵云"},
+    {"id": 10, "title": "碧桂园", "type": "住宅", "num": "1-1-10", "hometype": "三室一厅", "name": "关羽"},
+    {"id": 11, "title": "碧桂园", "type": "住宅", "num": "1-2-1", "hometype": "三室两厅", "name": "赵云"},
+    {"id": 12, "title": "碧桂园", "type": "住宅", "num": "1-2-2", "hometype": "三室一厅", "name": "诸葛亮"},
+    {"id": 13, "title": "碧桂园", "type": "住宅", "num": "1-2-3", "hometype": "一室一厅", "name": "赵云"},
+    {"id": 14, "title": "碧桂园", "type": "住宅", "num": "1-2-4", "hometype": "三室一厅", "name": "郭嘉"},
+    {"id": 15, "title": "碧桂园", "type": "住宅", "num": "1-2-5", "hometype": "二室一厅", "name": "赵云"},
+    {"id": 16, "title": "碧桂园", "type": "住宅", "num": "1-2-6", "hometype": "三室一厅", "name": "梦琪"},
+    {"id": 17, "title": "碧桂园", "type": "住宅", "num": "1-2-7", "hometype": "三室两厅", "name": "赵云"},
+    {"id": 18, "title": "碧桂园", "type": "住宅", "num": "1-2-8", "hometype": "三室一厅", "name": "曹操"},
+    {"id": 19, "title": "碧桂园", "type": "住宅", "num": "1-2-9", "hometype": "四室一厅", "name": "赵云"},
+    {"id": 20, "title": "碧桂园", "type": "住宅", "num": "1-2-10", "hometype": "三室一厅", "name": "赵云"},
+    {"id": 21, "title": "碧桂园", "type": "住宅", "num": "1-3-1", "hometype": "一室一厅", "name": "子龙"},
+    {"id": 22, "title": "碧桂园", "type": "住宅", "num": "1-3-2", "hometype": "三室一厅", "name": "赵云"},
+    {"id": 23, "title": "碧桂园", "type": "住宅", "num": "1-3-3", "hometype": "两室一厅", "name": "奉先"},
+    {"id": 24, "title": "碧桂园", "type": "住宅", "num": "1-3-4", "hometype": "三室一厅", "name": "赵云"},
+    {"id": 25, "title": "碧桂园", "type": "住宅", "num": "1-3-5", "hometype": "一室一厅", "name": "吕布"}
+  ]
+}
